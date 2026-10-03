@@ -1,13 +1,13 @@
 # TypeScript Basics
 
-Практические задания по основам TypeScript: типизация переменных, объектов, массивов, функций, литеральных типов, дженериков, `Promise` и HTTP-запросов.
+Practice tasks covering TypeScript fundamentals: typing variables, objects, arrays, functions, literal types, generics, `Promise`, and HTTP requests.
 
 ## Topics
 
-- Примитивные типы, интерфейсы и необязательные свойства
-- Типизированные массивы и функции
-- Литеральные типы и дженерики
-- Асинхронный код и типизированный запрос к JSONPlaceholder
+- Primitive types, interfaces, and optional properties
+- Typed arrays and functions
+- Literal types and generics
+- Asynchronous code and a typed request to JSONPlaceholder
 
 ## Technologies
 
